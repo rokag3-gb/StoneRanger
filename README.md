@@ -3,7 +3,16 @@
 > **귀여운 스톤이 공원을 산책하다가 마주치는 액체괴물 삐로디들을 모두 물리치는 모험을
 > 여러분도 함께 해보세요. 마지막 스테이지에서 최종보스를 만나 무찔러보세요.**
 
-![스톤 레인저](assets/intro.png)
+<h3 align="center">
+  🎮 <a href="https://rokag3-gb.github.io/StoneRanger/"><b>지금 바로 플레이하기</b></a> 🎮
+</h3>
+
+<p align="center">
+  <a href="https://rokag3-gb.github.io/StoneRanger/">https://rokag3-gb.github.io/StoneRanger/</a><br>
+  <sub>설치 없이 브라우저에서 바로 시작됩니다</sub>
+</p>
+
+[![스톤 레인저](assets/intro.png)](https://rokag3-gb.github.io/StoneRanger/)
 
 초등학교 2학년 아이가 게임 이름을 짓고 캐릭터와 배경을 직접 그렸습니다.
 설치할 것도, 내려받을 것도 없습니다. **브라우저만 있으면 바로 플레이**할 수 있습니다.
