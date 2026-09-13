@@ -3,13 +3,16 @@
 > **귀여운 스톤이 공원을 산책하다가 마주치는 액체괴물 삐로디들을 모두 물리치는 모험을
 > 여러분도 함께 해보세요. 마지막 스테이지에서 최종보스를 만나 무찔러보세요.**
 
-<h3 align="center">
-  🎮 <a href="https://rokag3-gb.github.io/StoneRanger/"><b>지금 바로 플레이하기</b></a> 🎮
-</h3>
+<p align="center">
+  <a href="https://rokag3-gb.github.io/StoneRanger/">
+    <img alt="지금 바로 플레이하기"
+         src="https://img.shields.io/badge/%E2%96%B6%20%EC%A7%80%EA%B8%88%20%EB%B0%94%EB%A1%9C%20%ED%94%8C%EB%A0%88%EC%9D%B4%ED%95%98%EA%B8%B0-4AC04A?style=for-the-badge&labelColor=2d7a2d">
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://rokag3-gb.github.io/StoneRanger/">https://rokag3-gb.github.io/StoneRanger/</a><br>
-  <sub>설치 없이 브라우저에서 바로 시작됩니다</sub>
+  <a href="https://rokag3-gb.github.io/StoneRanger/"><b>https://rokag3-gb.github.io/StoneRanger/</b></a><br>
+  <sub>설치 없이 브라우저에서 바로 시작됩니다 · 새 탭으로 열려면 <kbd>Ctrl</kbd>(맥은 <kbd>⌘</kbd>) + 클릭</sub>
 </p>
 
 [![스톤 레인저](assets/intro.png)](https://rokag3-gb.github.io/StoneRanger/)
