@@ -24,6 +24,13 @@
 
 # 게임 소개
 
+<p align="center">
+  <kbd>←</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>→</kbd> <b>이동</b>
+  &nbsp;·&nbsp; <kbd>Space</kbd> <b>공격</b>
+  &nbsp;·&nbsp; <kbd>Enter</kbd> <b>핵폭탄</b>
+  &nbsp;·&nbsp; <kbd>ESC</kbd> <b>메뉴</b>
+</p>
+
 ## 🌿 어느 평화로운 공원에서
 
 해가 비추는 넓은 공원. 잔디밭 사이로 시냇물이 흐르고 꽃이 피어 있습니다.
