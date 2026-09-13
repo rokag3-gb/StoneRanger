@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<title>스톤 레인저</title>
+<style>
+  html, body {
+    margin: 0; padding: 0; width: 100%; height: 100%;
+    background: #10200f; overflow: hidden;
+    font-family: "Galmuri11", "DungGeunMo", "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  }
+  #game {
+    display: block; width: 100vw; height: 100vh;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+  }
+  #boot {
+    position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
+    color: #bfe9c2; font-size: 18px; letter-spacing: 2px; background: #10200f;
+  }
+</style>
+</head>
+<body>
+<canvas id="game"></canvas>
+<div id="boot">스톤 레인저 불러오는 중...</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name": "stone-ranger",
+  "version": "1.0.0",
+  "description": "스톤 레인저 - 아이와 함께 만드는 도트 액션 게임",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
